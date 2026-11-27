@@ -1,0 +1,6 @@
+{
+  "name": "Fluent Notes",
+  "description": "A Windows 11 desktop note-taking workspace with Mica styling, Markdown preview, and Gemini AI writing suggestions, summaries, and action extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
